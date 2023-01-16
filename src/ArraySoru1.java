@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class a {
+public class ArraySoru1 {
     public static void main(String[] args) {
         //Array kabul eden bir method yazın,method array deki en küçük sayıyı bulup
         //diğer elemanların yerine yazsın,bize yeni array i dönsün
